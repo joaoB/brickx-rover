@@ -58,3 +58,9 @@ Output of Example 2
         1 3 N
         5 1 E
         ==========    
+        
+        
+# Tests
+You can run the test cases by
+
+        $ sbt test
