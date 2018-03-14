@@ -1,0 +1,7 @@
+#/bin/bash
+
+set -e
+
+./activator clean coverage test
+./activator coverageReport
+./activator dist
